@@ -1,9 +1,9 @@
-## Aspen Automation
+## Aspenglow
 
 **We take AI-built applications the rest of the way to production.**
 
-Aspen Automation is a Pocatello, Idaho firm that audits, hardens, migrates and maintains
-apps built on AI app builders — Lovable, Replit, Bolt.new and Base44.
+Aspenglow (formerly Aspen Automation) is a Pocatello, Idaho firm that audits, hardens,
+migrates and maintains apps built on AI app builders — Lovable, Replit, Bolt.new and Base44.
 
 ---
 
@@ -60,6 +60,6 @@ applications, cost-efficient infrastructure, scalable data modeling.
 
 ### Get in touch
 
-[**aspen-automation.com**](https://aspen-automation.com/) · [Info@aspen-automation.com](mailto:Info@aspen-automation.com)
+[**aspenglow.ai**](https://aspenglow.ai/) · [info@aspenglow.ai](mailto:info@aspenglow.ai)
 
 Replies come from Anthony or Steven, same business day, Mountain Time — not an inbox robot.
